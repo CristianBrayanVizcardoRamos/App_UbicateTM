@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1051462526004",
+    "firebase_url": "https://tmubicate2019.firebaseio.com",
+    "project_id": "tmubicate2019",
+    "storage_bucket": "tmubicate2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051462526004:android:2822c75f25843aaf",
+        "android_client_info": {
+          "package_name": "com.example.app_ubicatetm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051462526004-vqu900u4r3962qtr3nj8sestrejgmmhj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_ubicatetm",
+            "certificate_hash": "5b3f29a1da485ce890e1a98d11fcb7d466afc50d"
+          }
+        },
+        {
+          "client_id": "1051462526004-besstankqsgs9ago88l3h6itmp38jfk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Flp0vVJ-UODty_9UfGH-MEIFF3sP2KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051462526004-besstankqsgs9ago88l3h6itmp38jfk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

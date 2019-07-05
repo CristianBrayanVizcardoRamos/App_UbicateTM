@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">App_UbicateTM</string>
+
+    <string name="tv_nombrePrincipal">UBICATE AQP</string>
+    <string name="tv_ubicanos">Ubicanos</string>
+    <string name="tv_llamanos">Llamanos</string>
+    <string name="txt_email">Ingrese su email</string>
+    <string name="txt_password">Ingrese su password</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_registrarse">Registrarse</string>
+
+    <string name="btn_enviar">Enviar Mensaje</string>
+
+    <string name="btn_sitios">Sitios</string>
+    <string name="btn_tipos">Tipos de Mapa</string>
+    <string name="btn_ubicacion">Mi Ubicacion</string>
+    <string name="btn_eventos">Eventos</string>
+
+    <string name="txt_nombre">Ingrese su nombre</string>
+    <string name="txt_pais">Ingrese su pais</string>
+    <string name="tv_registrarse">REGISTRARSE</string>
+
+    <string name="title_activity_maps1">Map</string>
+
+    <string name="tv_sitios">SITIOS</string>
+    <string name="tv_s_turisticos">Turisticos</string>
+    <string name="tv_s_deportivos">Deportivos</string>
+    <string name="tv_s_parques">Parques</string>
+    <string name="tv_s_party">Party</string>
+    <string name="tv_s_tiendas">Tiendas</string>
+
+    <string name="title_activity_maps_deportivos">Map</string>
+    <string name="title_activity_maps_parques">Map</string>
+
+    <string name="tv_eventos">EVENTOS</string>
+    <string name="rb_crear">Crear</string>
+    <string name="rb_buscar">Buscar</string>
+    <string name="btn_seleccionar">Seleccionar</string>
+
+    <string name="tv_crear">CREAR EVENTO</string>
+    <string name="txt_nombreEvento">Ingresar nombre de evento</string>
+    <string name="txt_informacion">Ingresar informacion de evento</string>
+    <string name="txt_lugar">Ingresar lugar de evento</string>
+    <string name="txt_fecha">Ingresar fecha de evento</string>
+    <string name="txt_hora">Ingresar hora de evento</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_modificar">Mofificar</string>
+    <string name="btn_eliminar">Eliminar</string>
+
+    <string name="tv_buscar">BUSCAR EVENTO</string>
+    <string name="tv_informacion">Informacion de evento</string>
+    <string name="txt_id">Ingresar ID de evento</string>
+    <string name="btn_buscar">BUSCAR</string>
+
+    <string name="title_activity_party">Map</string>
+    <string name="title_activity_maps_party">Map</string>
+
+    <string name="btn_Party">Visualizar en mapa</string>
+
+    <string name="title_activity_maps_hibrido">Map</string>
+
+    <string name="btn_hibrido">Tipo hibrido</string>
+    <string name="btn_satelite">Tipo satelite</string>
+    <string name="btn_terreno">Tipo terreno</string>
+
+    <string name="title_activity_maps_satelite">Map</string>
+    <string name="title_activity_maps_terreno">Map</string>
+
+</resources>
